@@ -1,0 +1,7 @@
+ node_modules/
+ bin/
+ config/
+*.env
+*.json
+db/
+/docker-compose.yaml
